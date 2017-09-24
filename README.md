@@ -1,0 +1,4 @@
+# Android_pcmToaac
+Android使用FFmpeg将pcm音频原始文件编码为aac音频文件
+
+关于如何录制pcm音频原始数据并保存为文件，可以参考我写的这个例子：https://github.com/z13538657403/Android_PCM_Record_Play
