@@ -1,0 +1,2 @@
+# Android_pcmToaac
+Android使用FFmpeg将pcm音频原始文件编码为aac音频文件
